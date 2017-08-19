@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void howtoplay(View v)
+    public void howplay(View v)
     {
         Intent it = new Intent(this, howtoplay.class);
         startActivity(it);
