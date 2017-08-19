@@ -10,7 +10,7 @@
     <ImageView
         android:layout_width="140dp"
         android:layout_height="39dp"
-        android:src="@drawable/back" 
+        android:src="@drawable/back"
         android:layout_marginTop="450sp"
         android:layout_marginLeft="215sp"/>
 
