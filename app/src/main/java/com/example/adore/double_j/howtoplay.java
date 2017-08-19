@@ -12,4 +12,9 @@ public class howtoplay extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_howtoplay);
     }
+    public void back(View v)
+    {
+        Intent it = new Intent(this, MainActivity.class);
+        startActivity(it);
+    }
 }
