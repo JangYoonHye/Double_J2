@@ -43,7 +43,7 @@
         android:orientation="horizontal"
         android:layout_marginTop="300dp"
         android:layout_gravity="center"
-        andro>
+        >
         <ImageView
             android:layout_width="80dp"
             android:layout_height="80dp"
